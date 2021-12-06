@@ -1,0 +1,19 @@
+{
+  "name": "react-geonotes",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "maplibre-gl": "^1.15.2",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-map-gl": "^6.1.17"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.6.4"
+  }
+}
